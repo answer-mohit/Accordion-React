@@ -1,0 +1,21 @@
+.question{
+max-width:50% ;   
+display: block;
+margin: auto; 
+box-shadow: 10px 10px 5px rgb(196, 177, 177);
+padding:20px;
+border-radius:10px ;
+
+}
+.section{
+
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    border: none;
+}
+button:hover{
+    border:2px solid gray;
+}
